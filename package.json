@@ -1,0 +1,1 @@
+{\n  "name": "cypress-ecommerce-tests",\n  "version": "1.0.0",\n  "description": "Ecommerce tests using Cypress",\n  "scripts": {\n    "test": "cypress run"\n  },\n  "devDependencies": {\n    "cypress": "^9.0.0"\n  }\n}
